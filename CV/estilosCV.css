@@ -116,7 +116,18 @@ body {background:#6e6666;}
 
 }
 
+.proyectos
+{
+    color: #000000;
+    position:absolute;
+    top:600px;
+    bottom:100px;
+    right:100px;
+    left:50px;
+    line-height:10px;
 
+}
+ 
 
 h1
 {
